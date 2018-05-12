@@ -1,0 +1,29 @@
+_repo: The-Eve-of-All-Hallows-v.-2-of-3Adelaide-of-Tyrconnel_42095
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42095-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hartstonge, Matthew Weld
+    aliases:
+    - Weld-Hartstonge, Matthew
+    - Weld, Matthew
+    - Hartstonge, M. W. (Matthew Weld)
+    birthdate: 1772
+    gutenberg_agent_id: '41073'
+    url: http://www.gutenberg.org/2009/agents/41073
+description: ''
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Eve of All-Hallows; Or, Adelaide of Tyrconnel, v. 2 of 3
+url: http://www.gutenberg.org/ebooks/42095
